@@ -1,7 +1,7 @@
 # EcommerceBotGuide
 
 <p align="center">
-  <img src="images/Header.jpg">
+  <img src="images/banner.jpg">
 </p>
 
 ## *Premiumbypg Ecommerce Bot အသုံးပြုပုံ*
