@@ -1,6 +1,6 @@
 # EcommerceBotGuide
 
-ဒီမှာ EcommerceBot အတွက် လမ်းညွှန်ကို ရေးထားပါတယ်။
+## *Premiumbypg Ecommerce Bot အသုံးပြုပုံ*
 
 ## 📢 Official Links
 
