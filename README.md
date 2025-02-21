@@ -2,7 +2,25 @@
 
 ဒီမှာ EcommerceBot အတွက် လမ်းညွှန်ကို ရေးထားပါတယ်။
 
-## Steps:
+## 📢 Official Links
+
+<p align="center">
+  <a href="https://t.me/premiumbypg">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A2%20Orgpg%20Telegram%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/Orgpgbot">
+    <img src="https://img.shields.io/badge/%F0%9F%91%89%20V2ray%20Telegram%20Bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://t.me/premiumbypgbot">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%B3%20Shopping%20Bot-ffcc00?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://github.com/Orgpg/Hiddify-Guide/issues/new">
+    <img src="https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F%20Report%20an%20Issue-ffcc00?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
 
 ### Step 1 : *“/start ” နိပ့်ပီး bot ကို စတင်ပါ။*
 <p align="center">
@@ -69,5 +87,6 @@
   <img src="images/Step13.jpg" width="40%">
 </p>
 
-## Join the Bot:
-ပိုပြီးကူညီမယ့်အတွက် Bot ကို [ဒီမှာရောက်နိုင်ပါသည်](https://t.me/premiumbypgbot).
+  <a href="https://t.me/premiumbypgbot">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%B3%20Shopping%20Bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
