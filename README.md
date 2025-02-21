@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://t.me/premiumbypg">
-    <img src="https://img.shields.io/badge/%F0%9F%93%A2%20Orgpg%20Telegram%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%A2%20%20Telegram%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/Orgpgbot">
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/%F0%9F%9A%B3%20Shopping%20Bot-ffcc00?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
     &nbsp;&nbsp;
-  <a href="https://github.com/Orgpg/Hiddify-Guide/issues/new">
+  <a href="https://github.com/Orgpg/EcommerceBotGuide/issues/new">
     <img src="https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F%20Report%20an%20Issue-ffcc00?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
@@ -87,6 +87,20 @@
   <img src="images/Step13.jpg" width="40%">
 </p>
 
-  <a href="https://t.me/premiumbypgbot">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%B3%20Shopping%20Bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+<p align="center">
+  <a href="https://t.me/premiumbypg">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A2%20%20Telegram%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/Orgpgbot">
+    <img src="https://img.shields.io/badge/%F0%9F%91%89%20V2ray%20Telegram%20Bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://t.me/premiumbypgbot">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%B3%20Shopping%20Bot-ffcc00?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://github.com/Orgpg/EcommerceBotGuide/issues/new">
+    <img src="https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F%20Report%20an%20Issue-ffcc00?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
